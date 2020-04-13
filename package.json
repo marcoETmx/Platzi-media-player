@@ -15,9 +15,6 @@
   "homepage": "https://github.com/marcoETmx/Platzi-media-player#readme",
   "repository": "github:marcoETmx/Platzi-media-player",
   "author": "Marco Elizalde <contacto@marcoelizalde.com> (https://www.marcoelizalde.com/)",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.8.3"

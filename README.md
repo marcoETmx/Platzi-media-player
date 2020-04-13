@@ -15,6 +15,10 @@ You need node.js and npm.
 npm i @marcoetmx/mediaplayer
 ```
 
+## Demo
+
+You can visit demo [here](https://github.com/marcoETmx/ExampleMediaPlayer).
+
 ## Example
 
 ```typescript
