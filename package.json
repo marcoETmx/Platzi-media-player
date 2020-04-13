@@ -1,6 +1,6 @@
 {
   "name": "@marcoetmx/mediaplayer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Plugin media player",
   "main": "lib/MediaPlayer.js",
   "scripts": {
